@@ -5,7 +5,7 @@
 
 ![supabase-login-home](https://user-images.githubusercontent.com/83369665/183643107-ebb7d41d-2f04-496f-8a32-8c3da3736ce2.png)
 ![supabase-login-confirm](https://user-images.githubusercontent.com/83369665/183643129-d9243d6e-87bb-40a9-b219-4536b42ff8dd.png)
-![supabase-login-confirm](https://user-images.githubusercontent.com/83369665/183643144-32770b77-d3c0-46ff-af52-e29debeb4a1f.png)
+![supabase-login-update](https://user-images.githubusercontent.com/83369665/183644235-27453647-b16e-434a-9bc6-8f2b4a2bfafa.png)
 
 ## サーバ起動
 
