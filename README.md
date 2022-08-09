@@ -21,6 +21,13 @@ yarn add @supabase/supabase-js
 
 ![75dc4c0a38ed-20211211](https://user-images.githubusercontent.com/83369665/183642953-2aee2737-959a-4013-b442-81c38da61abb.png)
 
+## データベースの型情報ファイルの生成
+
+openapi-typescript を使用して、型情報のファイルを生成できます。
+生成されたファイルは DB と同期はされていないので DB を変更した際は再生成が必要です。
+
+npx openapi-typescript https://your-project.supabase.co/rest/v1/?apikey=your-anon-key --output types/supabase.ts
+
 ## データベースのテーブル確認
 
 ![supabase-login-database](https://user-images.githubusercontent.com/83369665/183643809-4d98a54c-7048-44ee-a8c4-e4c7bf452dd5.png)
